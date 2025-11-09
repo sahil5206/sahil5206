@@ -2,12 +2,32 @@
 <h3 align="center">Cloud | DevOps</h3>
 
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sahil-gupta-401933221/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/sahilg5206official/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+
+  <!-- Email 1 -->
+  <a href="mailto:sahilg5206official@gmail.com">
+    <img src="https://img.shields.io/badge/Email%201-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Email 2 -->
+  <a href="mailto:sahilarc05@gmail.com">
+    <img src="https://img.shields.io/badge/Email%202-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/918178072248">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
@@ -62,12 +82,12 @@ I specialize in:
 ---
 
 ### ✅ **Google Cloud Certifications & Skill Badges**
-- **Google Cloud Skill Badges**  
-  - Build a Website on Google Cloud Skill Badgen  
-  Credential: [URL](https://www.credly.com/badges/d6f6d051-d875-4d40-89ba-7677d87be7aa/public_url)
-
-  - Deploy Kubernetes Applications on Google Cloud Skill Badge  
-  Credential: [URL](https://www.credly.com/badges/eed4559e-8c78-473f-9a1c-e8adefc41d85/public_url)
+- **Google Cloud Skill Badges:**  
+  - Build a Website on Google Cloud  
+    Credential: [URL](https://www.credly.com/badges/d6f6d051-d875-4d40-89ba-7677d87be7aa/public_url)
+  
+  - Deploy Kubernetes Applications on Google Cloud  
+    Credential: [URL](https://www.credly.com/badges/eed4559e-8c78-473f-9a1c-e8adefc41d85/public_url)
 
 ---
 
@@ -90,8 +110,8 @@ GKE | GitHub Actions | Docker | VPC | Monitoring | Auto Scaling
 
 ---
 
-### 4. **AWS based URL Shortener**
-Made a highly scalable URL shortener (like TinyURL) completely on AWS.
+### 4. **AWS Based URL Shortener**
+A highly scalable URL shortener (like TinyURL) built fully on AWS.
 
 ---
 
@@ -101,10 +121,9 @@ Made a highly scalable URL shortener (like TinyURL) completely on AWS.
 
 # 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/sahil-gupta-401933221/  
-- **LeetCode:** https://leetcode.com/u/sahilg5206official/  
-- **Email:** sahilg5206official@gmail.com , sahilarc05@gmail.com
-- **Contact & WhatsAPP:** +91-8178072248  
+- **Email 1:** [sahilg5206official@gmail.com](mailto:sahilg5206official@gmail.com)  
+- **Email 2:** [sahilarc05@gmail.com](mailto:sahilarc05@gmail.com)  
+- **WhatsApp & Contact:** [+91-8178072248](https://wa.me/918178072248)  
 
 ---
 
