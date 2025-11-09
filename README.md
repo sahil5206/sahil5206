@@ -105,8 +105,7 @@ A highly scalable URL shortener (like TinyURL) built fully on AWS.
 
 # 📫 Connect With Me
 
-- **LinkedIn:** [URL](https://www.linkedin.com/in/sahil-gupta-401933221/)  
-- **LeetCode:** [URL](https://leetcode.com/u/sahilg5206official/)  
+- **LinkedIn:** https://www.linkedin.com/in/sahil-gupta-401933221/   
 - **Email 1:** [sahilg5206official@gmail.com](mailto:sahilg5206official@gmail.com)  
 - **Email 2:** [sahilarc05@gmail.com](mailto:sahilarc05@gmail.com)  
 - **WhatsApp & Contact:** [+91-8178072248](https://wa.me/918178072248)  
