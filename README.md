@@ -97,17 +97,6 @@ Made a highly scalable URL shortener (like TinyURL) completely on AWS.
 
 *AND MANY MORE*
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilg5206official&show_icons=true&theme=transparent" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilg5206official&theme=transparent" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilg5206official&layout=compact&theme=transparent"/>
-</p>
-
 ---
 
 # 📫 Connect With Me
