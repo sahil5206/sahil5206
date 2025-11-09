@@ -12,22 +12,6 @@
   <a href="https://leetcode.com/u/sahilg5206official/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-
-  <!-- Email 1 -->
-  <a href="mailto:sahilg5206official@gmail.com">
-    <img src="https://img.shields.io/badge/Email%201-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- Email 2 -->
-  <a href="mailto:sahilarc05@gmail.com">
-    <img src="https://img.shields.io/badge/Email%202-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/918178072248">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
 </p>
 
 ---
@@ -121,6 +105,8 @@ A highly scalable URL shortener (like TinyURL) built fully on AWS.
 
 # 📫 Connect With Me
 
+- **LinkedIn:** [URL](https://www.linkedin.com/in/sahil-gupta-401933221/)  
+- **LeetCode:** [URL](https://leetcode.com/u/sahilg5206official/)  
 - **Email 1:** [sahilg5206official@gmail.com](mailto:sahilg5206official@gmail.com)  
 - **Email 2:** [sahilarc05@gmail.com](mailto:sahilarc05@gmail.com)  
 - **WhatsApp & Contact:** [+91-8178072248](https://wa.me/918178072248)  
