@@ -78,7 +78,7 @@ I specialize in:
 # 📂 **Featured Projects**
 
 ### 1. **Production-Grade Cloud + DevOps Architecture (Netflix-Style)**
-Microservices | Kubernetes | Kafka | Terraform | Prometheus + Grafana | CI/CD | Chaos Engineering(Litmus Chaos)
+Microservices | Kubernetes | Kafka | Terraform | Prometheus + Grafana | CI/CD 
 A distributed architecture demonstrating scalability and observability.
 
 ---
