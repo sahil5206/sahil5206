@@ -45,6 +45,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 | ☁️ Cloud Platforms | AWS, Azure, GCP, Oracle Cloud Infrastructure (OCI) |
 | ⚙️ Containers & Orchestration | Docker, Kubernetes |
 | 🏗 Infrastructure as Code | Terraform |
+| 🏗 Configuration Management | Ansible |
 | 🔁 CI/CD | Jenkins, GitHub Actions |
 | 📊 Observability | Prometheus, Grafana |
 | 📡 Messaging | Apache Kafka |
@@ -57,7 +58,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,python,java,ansible,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,python,java,ansible,bash&perline=7" />
 </p>
 
 ---
