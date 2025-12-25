@@ -1,9 +1,13 @@
-<!-- HERO BANNER -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Sahil%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=200&section=header&text=Sahil%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h3 align="center">Cloud • DevOps • Distributed Systems</h3>
+<h3 align="center">Cloud • DevOps • Distributed Systems Engineering</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Multi-Cloud+Infrastructure+Engineer;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Production-Grade+Systems+%26+Observability" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-gupta-401933221/">
@@ -21,29 +25,31 @@
 
 ## 👋 About Me
 
-I’m a **Cloud & DevOps Engineer** focused on building **scalable, observable, and production-grade systems**.
+I’m a **Cloud & DevOps Engineer** focused on building **scalable, observable, and production-ready systems**.
 
-My work revolves around:
-- Designing **multi-cloud architectures**
-- Automating infrastructure with **IaC**
-- Running **Kubernetes at scale**
-- Building **CI/CD pipelines that don’t break**
-- Implementing **monitoring, alerting & SRE practices**
+My work emphasizes:
+- Real infrastructure automation (not console-clicking)
+- Kubernetes-based distributed systems
+- CI/CD pipelines that survive change
+- Monitoring, alerting, and SRE principles
+- Event-driven and cloud-native architectures
 
-I’ve worked across **AWS, Azure, GCP, and OCI**, with hands-on experience in real deployment pipelines—not just tutorials.
+Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (OCI)**.
 
 ---
 
 ## 🧩 Core Skill Set
 
-| Domain | Tools & Technologies |
-|------|---------------------|
-| ☁️ Cloud | AWS, Azure, GCP, Oracle Cloud |
-| ⚙️ DevOps | Docker, Kubernetes, Terraform |
+| Domain | Technologies |
+|------|-------------|
+| ☁️ Cloud Platforms | AWS, Azure, GCP, **Oracle Cloud Infrastructure (OCI)** |
+| ⚙️ Containers & Orchestration | Docker, Kubernetes |
+| 🏗 Infrastructure as Code | Terraform |
 | 🔁 CI/CD | Jenkins, GitHub Actions |
 | 📊 Observability | Prometheus, Grafana |
 | 📡 Messaging | Apache Kafka |
-| 🐧 OS & Scripting | Linux, Bash, Python |
+| 💻 Programming | **Java**, Python, Bash |
+| 🐧 OS & Networking | Linux, Cloud Networking |
 | 🔐 Version Control | Git, GitHub |
 
 ---
@@ -51,61 +57,56 @@ I’ve worked across **AWS, Azure, GCP, and OCI**, with hands-on experience in r
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,python,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,oracle,linux,docker,kubernetes,terraform,jenkins,github,kafka,java,python,bash&perline=7" />
 </p>
 
 ---
 
 ## 📜 Certifications
 
-### 🟢 Oracle Cloud Infrastructure
+### 🟢 Oracle Cloud Infrastructure (OCI)
+
 - **OCI 2025 Certified Foundations Associate**  
   🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=869991AB1BF9FC8DB110D11E4BCB613174576C28D009C545A79CD1D1C6DBEE0B
 
 - **OCI 2025 Certified Architect Associate**  
   🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B2AB9C1A03B9AFC9DA3A5F45B7BF36AC0FF68E5ECF7DDC083B2096984DBA61A
 
-### 🟢 Google Cloud
-- Build a Website on Google Cloud  
-- Deploy Kubernetes Applications on Google Cloud  
+---
+
+### 🟢 Google Cloud Skill Badges
+
+- **Build a Website on Google Cloud**  
+  🔗 https://www.credly.com/badges/d6f6d051-d875-4d40-89ba-7677d87be7aa/public_url
+
+- **Deploy Kubernetes Applications on Google Cloud**  
+  🔗 https://www.credly.com/badges/eed4559e-8c78-473f-9a1c-e8adefc41d85/public_url
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Production-Grade Cloud Architecture (Netflix-Style)
-**Kubernetes • Kafka • Terraform • Prometheus • Grafana**  
-Designed a distributed microservices architecture with CI/CD, autoscaling, and observability.
+**Kubernetes • Kafka • Terraform • CI/CD • Prometheus • Grafana**  
+Designed and deployed a distributed microservices system with autoscaling, monitoring, and fault isolation.
 
 ---
 
-### 🔹 Gesture-Based Touchless Computing
+### 🔹 Gesture-Based Touchless Computing System
 **OpenCV • MediaPipe • AI • Docker**  
-A multimodal system combining hand gestures, eye tracking, and voice control.
+A multimodal hands-free computing framework using gesture, eye, and voice input.
 
 ---
 
 ### 🔹 LLM Deployment on GCP
-**GKE • GitHub Actions • VPC • Monitoring**  
-End-to-end CI/CD for an LLM application with autoscaling and performance tracking.
+**GKE • GitHub Actions • Docker • VPC • Monitoring**  
+End-to-end CI/CD pipeline for an LLM-based application with scalable infrastructure.
 
 ---
 
 ### 🔹 AWS URL Shortener
 **AWS • Event-Driven Architecture**  
-A scalable TinyURL-like service built on AWS.
-
----
-
-## 📊 GitHub Stats (Optional but Recommended)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil5206&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil5206&theme=tokyonight&hide_border=true" />
-</p>
+A highly scalable URL-shortening service similar to TinyURL.
 
 ---
 
@@ -113,10 +114,11 @@ A scalable TinyURL-like service built on AWS.
 
 - **LinkedIn:** https://linkedin.com/in/sahil-gupta-401933221  
 - **Email:** sahilg5206official@gmail.com  
+- **Alternate Email:** sahilarc05@gmail.com  
 - **WhatsApp:** https://wa.me/918178072248  
 
 ---
 
 <p align="center">
-  <strong>“Build systems that survive real traffic, not just demos.”</strong>
+  <strong>Building systems for real users, real traffic, and real failures.</strong>
 </p>
