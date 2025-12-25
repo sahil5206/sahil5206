@@ -56,23 +56,8 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
-## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-
-  <!-- Custom O icon (transparent, skillicons-sized) -->
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Circle_-_black_simple.svg/512px-Circle_-_black_simple.svg.png"
-    alt="O Cloud"
-    width="48"
-    height="48"
-    style="margin: 0 6px;"
-  />
-
-  <img src="https://skillicons.dev/icons?i=gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,java,python,bash&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,python,bash&perline=6" />
 </p>
 
 ---
