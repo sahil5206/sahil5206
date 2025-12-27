@@ -58,7 +58,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,python,java,ansible,bash&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,github,kafka,python,java,ansible,bash,prometheus,grafana&perline=8" />
 </p>
 
 ---
