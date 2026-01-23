@@ -42,7 +42,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 | Domain | Technologies |
 |------|-------------|
-| ☁️ Cloud Platforms | AWS, Azure, GCP, Oracle Cloud Infrastructure (OCI) |
+| ☁️ Cloud Platforms | AWS, Azure, GCP, OCI |
 | ⚙️ Containers & Orchestration | Docker, Kubernetes |
 | 🏗 Infrastructure as Code | Terraform |
 | 🏗 Configuration Management | Ansible |
