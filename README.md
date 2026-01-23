@@ -46,7 +46,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 | ⚙️ Containers & Orchestration | Docker, Kubernetes |
 | 🏗 Infrastructure as Code | Terraform |
 | 🏗 Configuration Management | Ansible |
-| 🔁 CI/CD | Jenkins, GitHub Actions |
+| 🔁 CI/CD | Jenkins |
 | 📊 Observability | Prometheus, Grafana |
 | 📡 Event Streaming | Apache Kafka |
 | 💻 Programming | Java, Python, Go, Bash |
