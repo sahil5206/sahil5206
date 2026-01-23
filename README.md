@@ -48,7 +48,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 | 🏗 Configuration Management | Ansible |
 | 🔁 CI/CD | Jenkins, GitHub Actions |
 | 📊 Observability | Prometheus, Grafana |
-| 📡 Messaging | Apache Kafka |
+| 📡 Event Streaming | Apache Kafka |
 | 💻 Programming | Java, Python, Go, Bash |
 | 🐧 OS & Networking | Linux, Cloud Networking |
 | 🔐 Version Control | Git, GitHub |
