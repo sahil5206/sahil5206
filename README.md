@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  ☁️ Cloud Engineer • ⚙️ DevOps • 🚀 Cloud AI Infrastructure Platform Engineering
+  ☁️ Cloud • ⚙️ DevOps • 🚀 Cloud AI Infrastructure Platform Engineering
 </h2>
 
 <p align="center">
