@@ -1,25 +1,50 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=200&section=header&text=Sahil%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Sahil%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Cloud%20%7C%20DevOps%20%7C%20Distributed%20Systems&descAlignY=55&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Cloud • DevOps • Distributed Systems Engineering</h3>
+<h2 align="center">
+  ☁️ Cloud Engineer • ⚙️ DevOps • 🚀 Platform Engineering
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Multi-Cloud+Infrastructure+Engineer;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Production-Grade+Systems+%26+Observability" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Cloud-Native+Infrastructure;Kubernetes+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;AWS+%7C+Azure+%7C+Google+Cloud+%7C+OCI;Observability+%7C+Automation+%7C+Distributed+Systems"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahil5206&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/sahil5206?style=for-the-badge&logo=github&color=181717"/>
+  <img src="https://img.shields.io/github/stars/sahil5206?affiliations=OWNER&style=for-the-badge&logo=github&color=facc15"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-gupta-401933221/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/sahilg5206official/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:sahilg5206official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sahil5206">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+</p>
+
+---
+
 
 ---
 
