@@ -73,6 +73,9 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 - **OCI 2025 Certified Architect Associate**  
   🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B2AB9C1A03B9AFC9DA3A5F45B7BF36AC0FF68E5ECF7DDC083B2096984DBA61A
 
+- **OCI 2026 Certified AI Foundations Associate**  
+  🔗 https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F7B1098986C7F74D64817619C758ED8E78C59B0F30DED73AF2C48BDAC199B2E
+
 ---
 
 ### 🟢 Google Cloud Skill Badges
