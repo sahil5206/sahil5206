@@ -1,6 +1,9 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Sahil%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Cloud%20Infrastructure%20%26%20Platform%20Engineering&descAlignY=55&animation=fadeIn"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Sahil%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Cloud%20Infrastructure%20%26%20Platform%20Engineering&descAlignY=55&animation=fadeIn"
+  />
 </p>
 
 <h2 align="center">
