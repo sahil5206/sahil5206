@@ -4,17 +4,11 @@
 </p>
 
 <h2 align="center">
-  ☁️ Cloud Engineer • ⚙️ DevOps • 🚀 Platform Engineering
+  ☁️ Cloud Engineer • ⚙️ DevOps • 🚀 Cloud AI Infrastructure Platform Engineering
 </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Cloud-Native+Infrastructure;Kubernetes+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;AWS+%7C+Azure+%7C+Google+Cloud+%7C+OCI;Observability+%7C+Automation+%7C+Distributed+Systems"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil5206&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/sahil5206?style=for-the-badge&logo=github&color=181717"/>
-  <img src="https://img.shields.io/github/stars/sahil5206?affiliations=OWNER&style=for-the-badge&logo=github&color=facc15"/>
 </p>
 
 <p align="center">
