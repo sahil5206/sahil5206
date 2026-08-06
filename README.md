@@ -78,6 +78,13 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ---
 
+### 🟢 DevOps Certication
+
+- **Build a Website on Google Cloud**  
+  🔗 https://www.geeksforgeeks.org/certificate/70b8ce1c387b95e099d66b60852a0bcd?utm_source=socials&utm_medium=cc_link
+
+---
+
 ### 🟢 Google Cloud Skill Badges
 
 - **Build a Website on Google Cloud**  
@@ -96,15 +103,15 @@ Designed and deployed a distributed microservices system with autoscaling, monit
 
 ---
 
-### 🔹 Gesture-Based Touchless Computing System
-**OpenCV • MediaPipe • AI • Docker**  
-A multimodal hands-free computing framework using gesture, eye, and voice input.
-
----
-
 ### 🔹 LLM Deployment on GCP
 **GKE • GitHub Actions • Docker • VPC • Monitoring**  
 End-to-end CI/CD pipeline for an LLM-based application with scalable infrastructure.
+
+---
+
+### 🔹 Azure Hybrid Cloud Migration & Choas Engineering
+**Azure • Re-Platforming • AKS • Chaos Engineering**  
+A multimodal hands-free computing framework using gesture, eye, and voice input.
 
 ---
 
