@@ -80,7 +80,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ### 🟢 DevOps Certication
 
-- **Build a Website on Google Cloud**  
+- **DevOps Skill-Up Certified by GeeksforGeeks (GFG)**  
   🔗 https://www.geeksforgeeks.org/certificate/70b8ce1c387b95e099d66b60852a0bcd?utm_source=socials&utm_medium=cc_link
 
 ---
