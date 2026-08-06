@@ -97,12 +97,6 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ## 🚀 Featured Projects
 
-### 🔹 Production-Grade Cloud Architecture (Netflix-Style)
-**Kubernetes • Kafka • Terraform • CI/CD • Prometheus • Grafana**  
-Designed and deployed a distributed microservices system with autoscaling, monitoring, and fault isolation.
-
----
-
 ### 🔹 LLM Deployment on GCP
 **GKE • GitHub Actions • Docker • VPC • Monitoring**  
 End-to-end CI/CD pipeline for an LLM-based application with scalable infrastructure.
@@ -118,6 +112,18 @@ A multimodal hands-free computing framework using gesture, eye, and voice input.
 ### 🔹 AWS URL Shortener
 **AWS • Event-Driven Architecture**  
 A highly scalable URL-shortening service similar to TinyURL.
+
+---
+
+### 🔹 Production-Grade Cloud Architecture (Netflix-Style)
+**Kubernetes • Kafka • Terraform • CI/CD • Prometheus • Grafana**  
+Designed and deployed a distributed microservices system with autoscaling, monitoring, and fault isolation.
+
+---
+
+### 🔹 Gesture-Based Touchless Computing System
+**OpenCV • MediaPipe • AI • Docker**  
+A multimodal hands-free computing framework using gesture, eye, and voice input.
 
 ---
 
