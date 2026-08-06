@@ -49,6 +49,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 |------|-------------|
 | ☁️ Cloud Platforms | AWS, Azure, GCP, OCI |
 | ⚙️ Containers & Orchestration | Docker, Kubernetes |
+| ☁️ MLOps | Azure ML |
 | 🏗 Infrastructure as Code | Terraform |
 | 🏗 Configuration Management | Ansible |
 | 🔁 CI/CD | Jenkins |
@@ -57,6 +58,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 | 💻 Programming | Java, Python, Go, Bash |
 | 🐧 OS & Networking | Linux, Cloud Networking |
 | 🔐 Version Control | Git, GitHub |
+| 📡 Communication Protocol | gRPC, REST |
 
 ---
 
