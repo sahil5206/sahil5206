@@ -1,10 +1,5 @@
 <!-- ===================== HERO SECTION ===================== -->
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Sahil%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Cloud%20Infrastructure%20%26%20Platform%20Engineering&descAlignY=55&animation=fadeIn"
-  />
-</p>
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Sahil%20Gupta&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Cloud%20%7C%20DevOps%20%7C%20Distributed%20Systems&descAlignY=55&animation=fadeIn"/> </p>
 
 <h2 align="center">
   ☁️ Cloud • ⚙️ DevOps • 🚀 Cloud AI Infrastructure Platform Engineering
