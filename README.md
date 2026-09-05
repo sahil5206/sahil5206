@@ -106,7 +106,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ### 🔹 End-to-End Azure MLOps Pipeline 
 **Azure ML • Jenkins • ACR • Azure Load Testing**  
-A multimodal hands-free computing framework using gesture, eye, and voice input.
+End-to-end Azure MLOps pipeline for containerized ML deployment on AKS with Terraform, Jenkins, ACR, Docker, and Azure Load Testing.
 
 ---
 
