@@ -105,7 +105,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 ## 🚀 Featured Projects
 
 ### 🔹 End-to-End Azure MLOps Pipeline 
-**Azure ML • Jenkins • ACR • Azure Load Testing**  
+**Azure ML • Jenkins • ACR • AKS • Azure Load Testing**  
 End-to-end Azure MLOps pipeline for containerized ML deployment on AKS with Terraform, Jenkins, ACR, Docker, and Azure Load Testing.
 
 ---
@@ -137,6 +137,12 @@ Designed and deployed a distributed microservices system with autoscaling, monit
 ### 🔹 Gesture-Based Touchless Computing System
 **OpenCV • MediaPipe • AI • Docker**  
 A multimodal hands-free computing framework using gesture, eye, and voice input.
+
+---
+
+### 🔹 Configuration Management using Ansible
+**Azure • Ansible • Nginx • Terraform**  
+Managing the configuration of Nginx server on Azure VM using Ansible. 
 
 ---
 
