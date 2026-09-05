@@ -104,9 +104,15 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ## 🚀 Featured Projects
 
-### 🔹 LLM Deployment on GCP
+### 🔹 End-to-End Azure MLOps Pipeline 
+**Azure ML • Jenkins • ACR • Azure Load Testing**  
+A multimodal hands-free computing framework using gesture, eye, and voice input.
+
+---
+
+### 🔹 OpenAI API based Document Reader Deployment on GCP
 **GKE • GitHub Actions • Docker • VPC • Monitoring**  
-End-to-end CI/CD pipeline for an LLM-based application with scalable infrastructure.
+End-to-end CI/CD pipeline and Deployment with scalable infrastructure.
 
 ---
 
