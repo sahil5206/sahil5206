@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  ☁️ Cloud • ⚙️ DevOps • 🚀 Cloud AI Infrastructure Platform Engineering
+  ☁️ Cloud • ⚙️ DevOps • 🚀 AI Inference & Platform Engineering
 </h2>
 
 <p align="center">
