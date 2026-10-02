@@ -102,6 +102,13 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 
 ---
 
+### 🟢 Java Certification
+
+- **HackerRank Java(Basic) Certification**  
+  🔗 https://www.hackerrank.com/certificates/67f42348858b
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 End-to-End Azure MLOps Pipeline 
@@ -113,6 +120,12 @@ End-to-end Azure MLOps pipeline for containerized ML deployment on AKS with Terr
 ### 🔹 OpenAI API based Document Reader Deployment on GCP
 **GKE • GitHub Actions • Docker • VPC • Monitoring**  
 End-to-end CI/CD pipeline and Deployment with scalable infrastructure.
+
+---
+
+### 🔹 AWS AI-LLM Deployment & Inference using vLLM Engine  
+**AWS • vLLM • Docker • Streamlit • Inference Platform • CUDA Compatible**  
+Deployment of an LLM model using an Inference Engine (vLLm in this project) on AWS cloud with streamlit frontend with Docker and CUDA.
 
 ---
 
