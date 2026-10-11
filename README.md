@@ -50,6 +50,7 @@ Hands-on experience across **AWS, Azure, GCP, and Oracle Cloud Infrastructure (O
 | ☁️ Cloud Platforms | AWS, Azure, GCP, OCI |
 | ⚙️ Containers & Orchestration | Docker, Kubernetes |
 | ☁️ MLOps | Azure ML |
+| 📡 Inference Engine | vLLM |
 | 🏗 Infrastructure as Code | Terraform |
 | 🏗 Configuration Management | Ansible |
 | 🔁 CI/CD | Jenkins, GitHub Actions |
