@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-I’m a **Cloud & DevOps Engineer** focused on building **scalable, observable, and production-ready systems**.
+I’m a **Cloud & DevOps Engineer with hands-on AI Inference knowledge** focused on building **scalable, observable, and production-ready systems**.
 
 My work emphasizes:
 - Real infrastructure automation (not console-clicking)
